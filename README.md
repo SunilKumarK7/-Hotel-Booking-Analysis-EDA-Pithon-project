@@ -1,4 +1,4 @@
-# -Hotel-Booking-Analysis-EDA-Pithon-project
+# -Hotel-Booking-Analysis-EDA-Python-project
 This project analyzes hotel booking data consisting of two hotel types - City Hotel and Resort Hotel. The dataset contains 119,390 rows and 32 columns, and the data manipulation workflow is divided into three categories: Data Collection, Data Cleaning and Manipulation, and EDA (Exploratory Data Analysis).
 
 In the Data Collection phase, various methods such as head(), tail(), info(), describe(), columns() were used to find different columns in the dataset. Key columns such as hotel, is_canceled, lead_time, arrival_date_year, arrival_date_month, arrival_date_week_number, and arrival_date_day_of_month were identified.
