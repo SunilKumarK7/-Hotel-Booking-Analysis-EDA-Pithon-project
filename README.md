@@ -1,3 +1,4 @@
+[Hotel Bookings.csv](https://github.com/SunilKumarK7/-Hotel-Booking-Analysis-EDA-Pithon-project/files/11373041/Hotel.Bookings.csv)
 # Hotel Booking Analysis,EDA Python project
 This project analyzes hotel booking data consisting of two hotel types - City Hotel and Resort Hotel. The dataset contains 119,390 rows and 32 columns, and the data manipulation workflow is divided into three categories: Data Collection, Data Cleaning and Manipulation, and EDA (Exploratory Data Analysis).
 
